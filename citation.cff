@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gomez Sanchez
+    given-names: Jose
+    orcid: https://orcid.org/0009-0001-0191-0087
+title: "Technical Agricultural Cybernetic Operative"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.8475
+date-released: 2024-04-24
