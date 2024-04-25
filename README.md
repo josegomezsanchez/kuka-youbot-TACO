@@ -5,4 +5,4 @@ The robot uses invers knematics to detrmine the movementes to match a dummy targ
 that is at the tip of the endefector with a dummy target wich position is changed to match the 
 object selectec in the program
 The code was developed in LUA based in the code
-Adaptation from https://github.com/Tanmay2812/Kuka-Yobout-Simulations?tab=readme-ov-file#readme
+Adaptation from [https://github.com/Tanmay2812/Kuka-Yobout-Simulations?tab=readme-ov-file#readme](https://github.com/Tanmay2812/Kuka-Yobout-Simulations/blob/main/pick%20and%20place.ttt)
