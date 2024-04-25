@@ -5,7 +5,7 @@ The robot uses invers knematics to detrmine the movementes to match a dummy targ
 that is at the tip of the endefector with a dummy target wich position is changed to match the 
 object selectec in the program
 Original Authors:
-Jose Gomez Sanchez
-Agnieszka Lijowska
-Srikar Reddy Kakunuri
-Disha Ajay Bhagwat
+Jose Gomez Sanchez,
+Agnieszka Lijowska,
+Srikar Reddy Kakunuri,
+Disha Ajay Bhagwat.
